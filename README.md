@@ -1,4 +1,6 @@
 # Gym_site
+![Screenshot (9)](https://github.com/Glad225/Gym_site/assets/117749447/d771f995-0eac-42a3-ac0b-a0118f990d39)
+
 ![gym](https://github.com/Glad225/Gym_site/assets/117749447/62a4ca81-8839-4e4a-9b47-c32e177c4961)
 ![gym2](https://github.com/Glad225/Gym_site/assets/117749447/6668c0b8-97f2-4913-892c-605638ee232a
 
